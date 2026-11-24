@@ -1,0 +1,6 @@
+{
+  "name": "KATA — Micro-Graphic Designer",
+  "description": "Procedural and fully customizable Swiss-Japanese micro-graphic plate designer with curated SVG micro-assets, riso print simulation, batch contact sheets, and server-side JSON storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
